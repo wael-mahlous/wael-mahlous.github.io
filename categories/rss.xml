@@ -1,0 +1,81 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+
+    
+        
+
+        
+            
+        
+    
+
+
+
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<rss version="2.0"  xml:lang="en"  xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        
+
+        
+
+        
+            <language>en</language>
+        
+
+        
+            <lastBuildDate>Mon, 01 Jan 0001 00:00:00 UTC</lastBuildDate>
+        
+
+        
+            <link>https://wael-mahlous.github.io/categories/</link>
+        
+
+        
+            <atom:link href="https://wael-mahlous.github.io/categories/rss.xml" hreflang="en" rel="self" type="application/rss+xml"/>
+        
+
+        
+            
+
+            <atom:link href="https://wael-mahlous.github.io/categories/" hreflang="en" rel="alternate" type="text/html"/>
+        
+            
+
+            <atom:link href="https://wael-mahlous.github.io/categories/rss.xml" hreflang="en" rel="alternate" type="application/rss+xml"/>
+        
+
+        
+
+        
+
+        
+            <title>Categories · Wael&rsquo;s Blog</title>
+        
+
+        
+
+        
+    </channel>
+</rss>
